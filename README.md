@@ -76,4 +76,16 @@ Expected result:
 - 3 tests run
 - 0 failures
 
-Inspired by <https://github.com/andrewtryder/Wikipedia>
+## Licensing
+
+This project contains code originally published under the MIT Licence by the
+upstream author. The original licence text is preserved verbatim in
+`LICENSE.txt` as required by the MIT Licence.
+
+All modifications, additions, and ongoing maintenance performed by Barry
+Suridge are licensed under the terms described in `LICENCE.md`.
+
+In summary:
+
+- `LICENSE.txt` — original upstream MIT Licence (unchanged)
+- `LICENCE.md` — licence applying to Barry Suridge’s contributions
